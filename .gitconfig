@@ -1,0 +1,13 @@
+[user]
+    name = Axel Johnsson
+    email = johnsson.axel@gmail.com
+[core]
+    editor = vim
+[init]
+    defaultBranch = main
+[fetch]
+    prune = true
+[merge]
+    ff = false
+[pull]
+    rebase = true

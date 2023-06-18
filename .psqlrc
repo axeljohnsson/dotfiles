@@ -1,0 +1,8 @@
+\set QUIET on
+
+\pset expanded auto
+\pset null '<NULL>'
+\set COMP_KEYWORD_CASE upper
+\timing
+
+\unset QUIET
